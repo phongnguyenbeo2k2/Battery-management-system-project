@@ -1,0 +1,6 @@
+../Libs/Drivers/Rotary Encoder/rotary_encoder.c:3:13:RE_ClockwiseCallback	1
+../Libs/Drivers/Rotary Encoder/rotary_encoder.c:7:13:RE_CounterClockwiseCallback	1
+../Libs/Drivers/Rotary Encoder/rotary_encoder.c:12:6:RE_Init	1
+../Libs/Drivers/Rotary Encoder/rotary_encoder.c:20:13:RE_GetValue	2
+../Libs/Drivers/Rotary Encoder/rotary_encoder.c:28:6:HAL_TIM_IC_CaptureCallback	1
+../Libs/Drivers/Rotary Encoder/rotary_encoder.c:33:6:RE_Handle	4

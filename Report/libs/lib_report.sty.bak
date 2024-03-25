@@ -1,0 +1,19 @@
+\usepackage[utf8]{inputenc}
+\usepackage[T5]{fontenc}
+\usepackage[fontsize=13pt]{scrextend}
+\usepackage[paperheight=29.7cm,paperwidth=21cm,right=2cm,left=3cm,top=2cm,bottom=2.5cm]{geometry}
+\usepackage{mathptmx}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{tikz}
+\usepackage{circuitikz}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usetikzlibrary{calc}
+\usepackage{indentfirst} %thut dau dong
+\usepackage{titlesec} %thu vien de set up cac kieu chu
+\usepackage{caption}
+\usepackage{fancyhdr}
+%\usepackage[backend=biber, style=ieee, sorting=ynt]{biblatex}
+\usepackage{hyperref}

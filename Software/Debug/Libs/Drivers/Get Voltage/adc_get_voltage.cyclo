@@ -1,0 +1,5 @@
+../Libs/Drivers/Get Voltage/adc_get_voltage.c:14:18:BAT_InitInfo	2
+../Libs/Drivers/Get Voltage/adc_get_voltage.c:34:6:BAT_GetVoltageAllCells	2
+../Libs/Drivers/Get Voltage/adc_get_voltage.c:43:6:BAT_GetCurremt	1
+../Libs/Drivers/Get Voltage/adc_get_voltage.c:49:6:BAT_GetTemperature	1
+../Libs/Drivers/Get Voltage/adc_get_voltage.c:56:11:BAT_GetState	1

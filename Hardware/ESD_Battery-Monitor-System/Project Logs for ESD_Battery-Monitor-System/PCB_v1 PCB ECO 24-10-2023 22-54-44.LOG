@@ -1,0 +1,50 @@
+Removed Member From Class: ClassName=Voltage_Battery_Measure Member=C23
+Change component parameters: Designator = "C2" ("C2"); Footprint = "WCAP-CSGP_0603_H=0.8mm_Reflow"; UniqueID = "\DHUWMCWL" ("\DHUWMCWL")
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ceramic Type"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/885012206071.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dissipation Factor"; Value = "#NAME?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Isolation Resistance"; Value = ">=5GOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "885012206071"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 to +125degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "May 2020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technical Reference"; Value = "X7R0603104K025DFCT10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF, 25V"; VariantName = "[No Variations]"
+Added Component: Designator=P1(Rotary Encoder)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/ky-040-mach-dieu-khien-goc-quay-encoder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ROTARY ENCODER"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=+3.3 Pin=P1-2
+Added Pin To Net: NetName=ENCODER_SW Pin=P1-3
+Added Pin To Net: NetName=ENCODER_CH2 Pin=P1-4
+Added Pin To Net: NetName=ENCODER_CH1 Pin=P1-5
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C2 100nF, 25V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C4 4.7uF, 10V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C5 100nF, 25V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C6 100nF, 25V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C7 22pF, 50V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C9 1uF, 25V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C10 10nF, 16V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C11 100nF, 25V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C13 4.7uF, 10V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C14 100nF, 25V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C15 100nF, 25V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C17 100nF, 25V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C18 100nF, 25V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C19 Tantalum Capacitor
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C20 100nF, 25V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C21 100nF, 25V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component C22 Tantalum Capacitor
+Added Member To Class: ClassName=Power_Supply Member=Component C24 680uF
+Added Member To Class: ClassName=Power_Supply Member=Component C25 1uF, 10V
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component P1 Rotary Encoder

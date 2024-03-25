@@ -1,0 +1,242 @@
+Added Component: Designator=J1(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J2(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J3(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J4(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=JDC1(DC-IN)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-60-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "60 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-60-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "60 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-60-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "60 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-60-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "60 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-60-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "60 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-60-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "60 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-60-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "60 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-60-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "60 KOhm/0603/1%"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC-14)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/lm324dr-ic-opamp-general-purpose-amplifier-4-circuit-1-2mhz-14-soic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LM324"; VariantName = "[No Variations]"
+Added Component: Designator=U2(BLUEPILL)
+Added Pin To Net: NetName=+5 Pin=JDC1-1
+Added Pin To Net: NetName=+5 Pin=U1-4
+Added Pin To Net: NetName=+5 Pin=U2-18
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=JDC1-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U2-39
+Added Pin To Net: NetName=GND Pin=U2-40
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R4-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R5-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R3-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R6-1
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R11-1
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R13-1
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=R12-1
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=R14-1
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R4-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-3
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=NetR2_1 Pin=U1-5
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R7-1
+Added Pin To Net: NetName=NetR5_2 Pin=U1-2
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R8-1
+Added Pin To Net: NetName=NetR6_2 Pin=U1-6
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R12-2
+Added Pin To Net: NetName=NetR9_1 Pin=U1-10
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R11-2
+Added Pin To Net: NetName=NetR10_1 Pin=U1-12
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=R15-1
+Added Pin To Net: NetName=NetR13_2 Pin=U1-13
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=R16-1
+Added Pin To Net: NetName=NetR14_2 Pin=U1-9
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=VCELL1 Pin=R7-2
+Added Pin To Net: NetName=VCELL1 Pin=U1-1
+Added Pin To Net: NetName=VCELL1 Pin=U2-26
+Added Net: Name=VCELL1
+Added Pin To Net: NetName=VCELL2 Pin=R8-2
+Added Pin To Net: NetName=VCELL2 Pin=U1-7
+Added Pin To Net: NetName=VCELL2 Pin=U2-27
+Added Net: Name=VCELL2
+Added Pin To Net: NetName=VCELL3 Pin=R16-2
+Added Pin To Net: NetName=VCELL3 Pin=U1-8
+Added Pin To Net: NetName=VCELL3 Pin=U2-28
+Added Net: Name=VCELL3
+Added Pin To Net: NetName=VCELL4 Pin=R15-2
+Added Pin To Net: NetName=VCELL4 Pin=U1-14
+Added Pin To Net: NetName=VCELL4 Pin=U2-29
+Added Net: Name=VCELL4
+Added Class: Name=Voltage_Battery_Measure
+Added Room: Name=Voltage_Battery_Measure

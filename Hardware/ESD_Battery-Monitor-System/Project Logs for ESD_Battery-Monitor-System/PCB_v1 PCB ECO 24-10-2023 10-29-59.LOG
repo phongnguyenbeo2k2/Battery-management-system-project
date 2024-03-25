@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=L1 Old Footprint=WE-PD2A_5848 New Footprint=WE-PD2A_7850
+Change Component Comment : Designator=L1 Old Comment=33uH, 1.09A New Comment=100uH, 0.77A
+Change component parameters: Designator = "L1" ("L1"); Footprint = "WE-PD2A_5848"; UniqueID = "\QJAADLLD" ("\QJAADLLD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/78477520.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance max."; Value = "0.43Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance typ."; Value = "0.281Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "100uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "78477520"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 to +125degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "May 2020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "0.77A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "80VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Saturation Current"; Value = "0.86A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Self Resonant Frequency"; Value = "7MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "7850"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SHUNT+ Pin=R29-1
+Added Pin To Net: NetName=SHUNT- Pin=R29-2
+Added Pin To Net: NetName=SHUNT+ Pin=R30-1
+Added Pin To Net: NetName=SHUNT- Pin=R30-2

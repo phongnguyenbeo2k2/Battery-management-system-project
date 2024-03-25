@@ -1,0 +1,4 @@
+../Libs/App/Control/control_bat.c:12:6:MODE_BatteryCharging	5
+../Libs/App/Control/control_bat.c:30:6:MODE_BatteryDischarging	2
+../Libs/App/Control/control_bat.c:41:6:MODE_BatteryStoring	1
+../Libs/App/Control/control_bat.c:47:6:MODE_BatteryManager	5

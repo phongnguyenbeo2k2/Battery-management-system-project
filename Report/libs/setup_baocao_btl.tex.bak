@@ -1,0 +1,20 @@
+\setlength{\parskip}{6pt}
+\setlength{\parindent}{1cm} %set thut dau dong moi doan
+
+\renewcommand{\baselinestretch}{1.2} %gian dong
+\renewcommand{\figurename}{\fontsize{12pt}{0pt}\selectfont \bfseries Hình}
+\renewcommand{\thefigure}{\arabic{figure}}
+\captionsetup[figure]{labelsep=space}
+
+%headings 1
+\titlespacing*{\section}{0pt}{0pt}{30pt}
+\titleformat*{\section}{\fontsize{16pt}{0pt}\selectfont \bfseries \centering}
+%headings 2
+\titlespacing*{\subsection}{10pt}{0pt}{0pt}
+\titleformat*{\subsection}{\fontsize{14pt}{0pt}\selectfont \bfseries}
+%headings 3
+\titlespacing*{\subsubsection}{10pt}{0pt}{0pt}
+\titleformat*{\subsubsection}{\fontsize{13pt}{0pt}\selectfont \bfseries \itshape}
+%headings 4
+\titlespacing*{\paragraph}{10pt}{0pt}{0pt}
+\titleformat*{\paragraph}{\fontsize{13pt}{0pt}\selectfont \itshape}

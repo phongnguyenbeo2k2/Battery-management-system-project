@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=SHUNT+ Pin=F1-1
+Added Pin To Net: NetName=SHUNT- Pin=J1-1
+Added Pin To Net: NetName=SHUNT+ Pin=J2-1
+Added Room: Name=Power_Supply
+Added Room: Name=Voltage_Battery_Measure

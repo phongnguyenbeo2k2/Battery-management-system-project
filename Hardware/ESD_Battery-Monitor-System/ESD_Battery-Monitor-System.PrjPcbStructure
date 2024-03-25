@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Power_Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Power_Diagram.SchDoc|FileName=Power_Supply.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Power_Diagram.SchDoc|FileName=Voltage_Battery_Measure.SchDoc|SheetNumber=3

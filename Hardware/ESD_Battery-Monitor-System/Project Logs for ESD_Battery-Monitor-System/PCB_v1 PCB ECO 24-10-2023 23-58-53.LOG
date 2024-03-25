@@ -1,0 +1,10 @@
+Added Component: Designator=P1(Rotary Encoder)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/ky-040-mach-dieu-khien-goc-quay-encoder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ROTARY ENCODER"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=+3.3 Pin=P1-2
+Added Pin To Net: NetName=ENCODER_SW Pin=P1-3
+Added Pin To Net: NetName=ENCODER_CH2 Pin=P1-4
+Added Pin To Net: NetName=ENCODER_CH1 Pin=P1-5
+Added Member To Class: ClassName=Voltage_Battery_Measure Member=Component P1 Rotary Encoder

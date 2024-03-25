@@ -1,0 +1,84 @@
+Change Component Footprint: Designator=C18 Old Footprint=WCAP-ATG8_D5H11 New Footprint=C1206
+Change Component Footprint: Designator=C21 Old Footprint=WCAP-ATG8_D5H11 New Footprint=C1206
+Change Component Footprint: Designator=C22 Old Footprint=WCAP-ATG8_D6.3H11 New Footprint=WCAP-ASLI_D6.3H7.7
+Change Component Footprint: Designator=C23 Old Footprint=WCAP-ATG8_D10H16 New Footprint=WCAP-ASLI_D12.5H14
+Change Component Comment : Designator=C18 Old Comment=1uF New Comment=Tantalum Capacitor
+Change Component Comment : Designator=C21 Old Comment=1uF New Comment=Tantalum Capacitor
+Change component parameters: Designator = "C26" ("C26"); Footprint = "C2312"; UniqueID = "\MFMVGAUZ" ("\MFMVGAUZ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=1681916"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TAJC226K016RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2312 AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJC226K016RNJ/AVX/view-part/1681916/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF, 16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "WCAP-ATG8_D6.3H11"; UniqueID = "\EIKRYBUO" ("\EIKRYBUO")
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/865080345012?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/865080345012?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dissipation Factor"; Value = "16%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Endurance"; Value = "2000h"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "35.2uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "865080345012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WCAP-ASLI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "275mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technical Reference"; Value = "ASED077221M016DVCTCB000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220uF,16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "WCAP-ATG8_D10H16"; UniqueID = "\QLGIIDYO" ("\QLGIIDYO")
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/865080562017?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/865080562017?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "12.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dissipation Factor"; Value = "14%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Endurance"; Value = "5000h"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "14mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "238uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "865080562017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WCAP-ASLI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage (DC)"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "1100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technical Reference"; Value = "ASEH140681M035DVCTGE000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "680uF, 35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "WCAP-ATG8_D5H11"; UniqueID = "\KBHXCFPU" ("\KBHXCFPU")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=1681916"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TAJC226K016RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2312 AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJC226K016RNJ/AVX/view-part/1681916/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Tantalum 1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "WCAP-ATG8_D5H11"; UniqueID = "\AIYRALUW" ("\AIYRALUW")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=1681916"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TAJC226K016RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2312 AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJC226K016RNJ/AVX/view-part/1681916/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Tantalum 1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=BAT_IN Pin=R29-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R29-2
+Added Pin To Net: NetName=BAT_IN Pin=R30-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R30-2
